@@ -414,5 +414,3 @@ stm32_comm.py ───────┘
 STM32 command output
 ```
 
-#   R a s p i  
- 
